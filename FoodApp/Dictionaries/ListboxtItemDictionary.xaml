@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <SolidColorBrush x:Key="ListboxItemForeGroundColor">#FF25BFBF</SolidColorBrush>
+    <SolidColorBrush x:Key="ListboxItemBackRoundColor" Color="White"></SolidColorBrush>
+    <SolidColorBrush x:Key="ListboxItemBorderColor" Color="#FF25BFBF"></SolidColorBrush>
+    <sys:Double x:Key="ListboxItemFontSize" >12</sys:Double>
+    
+</ResourceDictionary>

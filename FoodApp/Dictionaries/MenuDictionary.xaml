@@ -1,0 +1,7 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <SolidColorBrush x:Key="MenuBackroundColor">#FF25BFBF</SolidColorBrush>
+    <SolidColorBrush x:Key="MenuForeGroundColor" Color="White"></SolidColorBrush>
+    <SolidColorBrush x:Key="MenuBorderColor" Color="#FF25BFBF"></SolidColorBrush>
+    <sys:Double x:Key="MenuFontSize" >22</sys:Double>
+</ResourceDictionary>
